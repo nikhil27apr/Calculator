@@ -66,3 +66,10 @@ body {
   color: white;
   font-size: 2.5rem;
 }
+
+@media (max-width:1028px) {
+  #title{
+    text-align: center;
+  }
+}
+
